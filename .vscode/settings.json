@@ -1,0 +1,34 @@
+{
+    "files.associations": {
+        "*.S": "gas",
+        "memory_resource": "c",
+        "stat.h": "c",
+        "libtabfs.h": "c",
+        "bridge.h": "c",
+        "options.h": "c",
+        "operations.h": "c",
+        "errno.h": "c",
+        "array": "cpp",
+        "hash_map": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "testmnt": true,
+    },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true,
+        "**/.hg/store/**": true,
+        "testmnt": true,
+    }
+}

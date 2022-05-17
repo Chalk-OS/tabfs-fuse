@@ -1,0 +1,11 @@
+# xmake stuff
+.xmake
+build
+.vscode/compile_commands.json
+
+# testing stuff
+old
+testmnt
+*.tabfsimg
+*.img
+*.run
